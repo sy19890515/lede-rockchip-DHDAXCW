@@ -47,7 +47,7 @@ DEFAULT_PACKAGES.router:=\
 	ppp \
 	ppp-mod-pppoe \
 	luci-newapi block-mount coremark kmod-nf-nathelper kmod-nf-nathelper-extra kmod-ipt-raw \
-	default-settings luci luci-app-ddns luci-app-upnp luci-app-autoreboot \
+	default-settings luci luci-app-upnp luci-app-autoreboot \
 	luci-app-filetransfer luci-app-vsftpd luci-app-ssr-plus luci-app-unblockmusic luci-app-arpbind \
 	luci-app-vlmcsd luci-app-wol luci-app-ramfree \
 	luci-app-turboacc luci-app-nlbwmon luci-app-accesscontrol
